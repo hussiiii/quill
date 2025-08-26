@@ -177,7 +177,7 @@ export function HowItWorksModal() {
               <li className="flex items-start gap-2">
                 <span className="w-1.5 h-1.5 bg-muted-foreground rounded-full mt-2 flex-shrink-0"></span>
                 <div>
-                  <span className="font-medium text-foreground">Code Structure:</span> Components not split for rapid MVP development. Consider extracting reusable components for maintainability.
+                  <span className="font-medium text-foreground">Code Structure:</span> Components not split for rapid MVP development. Also used 'any' type a lot, etc.
                 </div>
               </li>
               
